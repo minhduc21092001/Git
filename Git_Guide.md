@@ -31,7 +31,7 @@ Ngoài Github còn có:
 
 ## Diagram
 
-![alt text](image.png)
+![alt text](Image/image.png)
 
 Staging area còn được gọi là Index
 
